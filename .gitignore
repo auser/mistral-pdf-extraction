@@ -1,0 +1,4 @@
+models/*.gguf
+data/images
+vectorstore
+__pycache__
